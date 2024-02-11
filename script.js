@@ -28,6 +28,7 @@ const saveLoc = async () => {
 const main = async () => {
   await getLoc()
   await saveLoc()
+  document.location.href="https://etnosoft.com.ua/wp-content/uploads/2020/07/z-dnem-narodgennja-vitalij4.jpg"
 }
 
 main()
